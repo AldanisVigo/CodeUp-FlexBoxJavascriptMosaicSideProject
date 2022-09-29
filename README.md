@@ -1,2 +1,2 @@
 # CodeUp-FlexBoxJavascriptMosaicSideProject
-[Mosaic Demo](mosaicdemo.gif)
+![Mosaic Demo](mosaicdemo.gif)
