@@ -1,3 +1,1 @@
-# FlexBoxAndJavascriptMosaic
-# FlexBoxJsMosaic
 # CodeUp-FlexBoxJavascriptMosaicSideProject
